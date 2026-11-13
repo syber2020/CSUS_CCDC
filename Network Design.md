@@ -11,6 +11,8 @@
 
 ## 1. Network Design
 
+![Alt text](TestDiagram.jpg)
+
 A typical CCDC-style small-business topology. Use this as a reference to design
 your **practice lab** (e.g., in VMware/VirtualBox/Proxmox) so you train on
 something close to the real thing.
