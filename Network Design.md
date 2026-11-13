@@ -9,7 +9,7 @@
 
 ---
 
-## 1. Example Network Design
+## 1. Network Design
 
 A typical CCDC-style small-business topology. Use this as a reference to design
 your **practice lab** (e.g., in VMware/VirtualBox/Proxmox) so you train on
