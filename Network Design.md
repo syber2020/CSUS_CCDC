@@ -13,7 +13,7 @@
 
 ![Alt text](TestDiagram.jpg)
 
-A typical CCDC-style small-business topology. Use this as a reference to design
+<!--A typical CCDC-style small-business topology. Use this as a reference to design
 your **practice lab** (e.g., in VMware/VirtualBox/Proxmox) so you train on
 something close to the real thing.
 
@@ -38,7 +38,7 @@ something close to the real thing.
 
 **Segmentation principle:** public services in the DMZ, internal servers on the
 LAN, and a separate management segment. Management ports (SSH/RDP/WinRM) reachable
-**only** from the jump host. This limits lateral movement after a breach.
+**only** from the jump host. This limits lateral movement after a breach.-->
 
 ---
 
